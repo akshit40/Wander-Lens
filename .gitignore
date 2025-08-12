@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE & OS files
+.vscode/
+.DS_Store
+
+# Large data and model files
+data/
+saved_model/
+temp_images/
+temp_extracted_dataset/
+
+# Log files
+*.log
